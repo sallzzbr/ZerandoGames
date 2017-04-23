@@ -1,0 +1,41 @@
+Requisitos do Sistema
+
+Recomendado
+OS : Win7/8/10 64-bit
+Processador: IntelCore i5 / AMD Phenom II X3 ou superiorVídeo: NVIDIA GeForce GTX660 / AMD Radeon HD 7950 ou superior
+Memória: 6 GB RAMHD: 30 GB de espaço disponível
+Internet: Conexão Banda Larga
+Resolução: mínimo de 1024 x 768
+
+Resquisitos Mínimos
+OS : Win7/8/10 64-bit
+Processador: IntelCore i3 / AMD Phenom II X3 8650
+Vídeo: NVIDIA GeForce GTX460 / ATI Radeon HD 4850 / Intel HD Graphics 4400
+Memória: 4 GB RAMHD: 30 GB de espaço disponível
+Internet: Conexão Banda Larga
+Resolução: mínimo de 1024 x 768
+
+------------------------------------------
+
+Genero: Shooter de Equipe
+
+Classificação: 12 anos(Violência)
+
+Plataformas: PlayStation4 Windows10(64 bits) Xbox One
+
+Idiomas:
+
+Português(PT/BR) Interface Audio Legendas
+Alemão Interface Audio Legendas
+English(US/EU) Interface Audio Legendas
+Espanhol(EU) Interface Audio Legendas
+Frances Interface Audio Legendas
+Italiano Interface Audio Legendas
+Japonês Interface Audio Legendas
+Coreano Interface Audio Legendas
+Chinês Interface Audio Legendas
+
+Single-Player
+Online Multi-Player 
+Online Co-op
+Suporte para Controles
